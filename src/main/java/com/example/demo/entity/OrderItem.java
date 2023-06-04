@@ -1,7 +1,9 @@
 package com.example.demo.entity;
 
 import java.io.Serializable;
+import java.util.HashSet;
 import java.util.Objects;
+import java.util.Set;
 
 import com.example.demo.pk.OrderItemPK;
 import com.fasterxml.jackson.annotation.JsonIgnore;
